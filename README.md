@@ -1,4 +1,4 @@
-# Chatbot de Suporte para ConquisTI
+# Chatbot de Suporte da ConquisTI
 
 Este projeto implementa um chatbot simples e funcional que atua como atendente de suporte para o blog de tecnologia **ConquisTI**. O chatbot responde a dúvidas comuns dos usuários, como instruções para fazer login, postar ou editar artigos, e fornece suporte técnico quando necessário.
 
