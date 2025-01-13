@@ -3,17 +3,32 @@
     {
       "tag": "saudacao",
       "patterns": ["Olá", "Oi", "E aí", "Oi, tudo bem?"],
-      "responses": ["Olá! Como posso ajudar?", "Oi! Tudo bem com você?", "E aí! Como posso te ajudar?"]
+      "responses": ["Olá! Bem-vindo ao suporte da ConquisTI. Como posso ajudar?", "Oi! Tudo bem com você? Estou aqui para ajudar com suas dúvidas sobre nosso blog."]
     },
     {
       "tag": "despedida",
       "patterns": ["Tchau", "Até mais", "Falou", "Até logo"],
-      "responses": ["Até mais!", "Tchau! Volte sempre.", "Falou, até a próxima!"]
+      "responses": ["Até mais! Se precisar de algo, é só chamar.", "Tchau! Volte sempre ao suporte da ConquisTI."]
     },
     {
-      "tag": "ajuda",
-      "patterns": ["Preciso de ajuda", "Me ajuda", "Como funciona?"],
-      "responses": ["Claro! Estou aqui para ajudar. O que você precisa saber?", "Com certeza! Diga o que precisa."]
+      "tag": "login",
+      "patterns": ["Como faço login?", "Não consigo acessar minha conta", "Ajuda para fazer login"],
+      "responses": ["Para fazer login, clique no botão 'Entrar' no canto superior direito do site e insira suas credenciais.", "Se não conseguir acessar, verifique se seu e-mail e senha estão corretos ou redefina sua senha usando a opção 'Esqueci minha senha'."]
+    },
+    {
+      "tag": "postar_artigo",
+      "patterns": ["Como postar um artigo?", "Quero publicar no blog", "Ajuda para postar conteúdo"],
+      "responses": ["Para postar um artigo, acesse sua conta, clique em 'Criar Novo Artigo' no painel e preencha as informações necessárias.", "Você pode adicionar título, conteúdo e imagens ao seu artigo antes de publicá-lo."]
+    },
+    {
+      "tag": "editar_artigo",
+      "patterns": ["Como editar meu artigo?", "Preciso atualizar meu post", "Editar conteúdo do blog"],
+      "responses": ["Para editar um artigo, acesse seu painel, encontre o artigo que deseja alterar e clique em 'Editar'.", "Você pode atualizar o título, conteúdo e imagens de seu artigo a qualquer momento."]
+    },
+    {
+      "tag": "suporte_tecnico",
+      "patterns": ["Preciso de suporte", "O site não funciona", "Erro no site"],
+      "responses": ["Se você está enfrentando problemas no site, por favor, envie um e-mail para suporte@conquisti.com com uma descrição detalhada do problema.", "Estamos aqui para ajudar! Descreva o erro e nossa equipe resolverá o mais rápido possível."]
     }
   ]
 }
