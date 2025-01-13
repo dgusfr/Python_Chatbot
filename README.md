@@ -5,7 +5,7 @@ Este projeto implementa um chatbot simples e funcional que atua como atendente d
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
+  <img src="images/logo.png" alt="Imagem do Projeto" width="900">
 </div>
 
 ## Sumário
