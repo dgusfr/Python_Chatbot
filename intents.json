@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "tag": "saudacao",
+      "patterns": ["Olá", "Oi", "E aí", "Oi, tudo bem?"],
+      "responses": ["Olá! Como posso ajudar?", "Oi! Tudo bem com você?", "E aí! Como posso te ajudar?"]
+    },
+    {
+      "tag": "despedida",
+      "patterns": ["Tchau", "Até mais", "Falou", "Até logo"],
+      "responses": ["Até mais!", "Tchau! Volte sempre.", "Falou, até a próxima!"]
+    },
+    {
+      "tag": "ajuda",
+      "patterns": ["Preciso de ajuda", "Me ajuda", "Como funciona?"],
+      "responses": ["Claro! Estou aqui para ajudar. O que você precisa saber?", "Com certeza! Diga o que precisa."]
+    }
+  ]
+}
