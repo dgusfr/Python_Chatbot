@@ -8,7 +8,8 @@ def carregar_intents(caminho):
 
 def encontrar_resposta(texto_usuario, intents):
     for intent in intents["intents"]:
-        if texto_usuario in intent["patterns"]:
+        similar = get_close_matches(texto_usuario, intent["patterns"], n=1, cutoff=0.6)
+        if similar:
             return random.choice(intent["responses"])
     return None
 
