@@ -22,7 +22,7 @@ Este projeto implementa um chatbot simples e funcional que atua como atendente d
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="images/python.png" alt="Logo Python" width="100"/>
+    <img src="images/python.png" alt="Logo Python" width="150"/>
   </div>
 </div>
 
