@@ -85,5 +85,5 @@ Caso não encontre uma correspondência, o chatbot retorna uma mensagem genéric
 
 ## Autor
 
-Desenvolvido por Diego Franco
+Desenvolvido por Diego Franco.
 
